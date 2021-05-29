@@ -12,7 +12,7 @@ Powered by Cloudflare & Github(Fastly)
 
 ### Cloudflare [推奨 --> 通常用]
  * https://cf.cdn.neko7sora.jp/README.md
- * https://cloudflare-cdn.pages.dev/README.md
+ * ( https://content-delivery-network-bvk.pages.dev/README.md )
 
 ### Github(Fastly) [非推奨 --> バックアップ用]
 ！文字化けする可能性あり --> エンコードすれば正常に使えます。
