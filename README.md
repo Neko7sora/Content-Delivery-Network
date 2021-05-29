@@ -1,20 +1,23 @@
 # Neko7sora/Content-Delivery-Network (CDN)
-Powered by Cloudflare & Github(Fastly)
 
-ここにファイルをアップロードするだけで、自動的に "Cloudflare" & "Github" 上にデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
+ここにファイルをアップロードするだけで、自動的に複数のサービスにデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
 
 ## リンク
-デプロイされたサイト
+デプロイするサイト
 
 ### メイン
-！通常用が動作しないときに手動でバックアップ用に切り替えます。また、切り替えた時にサイト(gh.\*\*)にアクセスできなくなります。
+！サービスが動かなくなったときに手動で切り替えます。
  * https://cdn.neko7sora.jp/README.md
 
-### Cloudflare [推奨 --> 通常用]
+### Powered by Cloudflare
  * https://cf.cdn.neko7sora.jp/README.md
  * ( https://content-delivery-network-bvk.pages.dev/README.md )
 
-### Github(Fastly) [非推奨 --> バックアップ用]
+### Powered by vercel(AWS)
+ * https://vc.cdn.neko7sora.jp
+ * ( https://cdn.neko7sora.vercel.app/ )
+
+### Powered by Github(Fastly) [非推奨]
 ！文字化けする可能性あり --> エンコードすれば正常に使えます。
  * https://gh.cdn.neko7sora.jp
  * ( https://neko7sora.github.io/cdn ) (リダイレクト 301code)
