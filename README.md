@@ -1,5 +1,5 @@
-# cloudflare-cdn
-Cloudflare Content Delivery Network
+# Neko7sora/cdn
+Content Delivery Network
 
 ここにファイルをアップロードするだけで、自動的に "Cloudflare" & "Github" 上にデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
 
