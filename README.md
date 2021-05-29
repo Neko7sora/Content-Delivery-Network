@@ -1,7 +1,7 @@
 # cloudflare-cdn
 Cloudflare Content Delivery Network
 
-ここにファイルをアップロードするだけで、自動的にCloudflare上にデプロイされます。（デプロイ完了までにファイルが多いほど時間がかかる場合があります。）
+ここにファイルをアップロードするだけで、自動的にCloudflare上にデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
 
 ## リンク
  * https://cdn.neko7sora.jp/README.md
