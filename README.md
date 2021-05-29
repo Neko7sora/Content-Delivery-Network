@@ -1,5 +1,5 @@
-# Neko7sora/cdn
-Content Delivery Network
+# Neko7sora/Content-Delivery-Network (CDN)
+Powered by Cloudflare & Github(Fastly)
 
 ここにファイルをアップロードするだけで、自動的に "Cloudflare" & "Github" 上にデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
 
