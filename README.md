@@ -17,7 +17,7 @@
  * https://vc.cdn.neko7sora.jp
  * ( https://cdn.neko7sora.vercel.app/ )
 
-### Powered by Github(Fastly) [非推奨]
+### Powered by Github(Fastly), Proxied by Cloudflare [非推奨]
 ！文字化けする可能性あり --> エンコードすれば正常に使えます。
  * https://gh.cdn.neko7sora.jp
  * ( https://neko7sora.github.io/cdn ) (リダイレクト 301code)
