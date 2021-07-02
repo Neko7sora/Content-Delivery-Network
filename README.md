@@ -11,7 +11,7 @@
 
 ### Powered by Cloudflare
  * https://cf.cdn.neko7sora.jp/README.md
- * ( https://content-delivery-network-bvk.pages.dev/README.md )
+ * ( https://neko7sora-cdn.pages.pages.dev/README.md )
 
 ### Powered by vercel(AWS)
  * https://vc.cdn.neko7sora.jp
