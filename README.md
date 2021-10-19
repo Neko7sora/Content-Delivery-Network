@@ -3,21 +3,58 @@
 ここにファイルをアップロードするだけで、自動的に複数のサービスにデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
 
 ## リンク
-デプロイするサイト
 
-### メイン
 ！サービスが動かなくなったときに手動で切り替えます。
- * https://cdn.neko7sora.jp/README.md
 
-### Powered by Cloudflare
- * https://cf.cdn.neko7sora.jp/README.md
- * ( https://neko7sora-cdn.pages.pages.dev/README.md )
+- https://cdn.neko7sora.site
 
-### Powered by vercel(AWS)
- * https://vc.cdn.neko7sora.jp
- * ( https://cdn.neko7sora.vercel.app/ )
+### Cloudflare
 
-### Powered by Github(Fastly), Proxied by Cloudflare [非推奨]
+Hosted by Cloudflare
+
+Powered by Cloudflare Pages
+
+- https://cloudflare.cdn.neko7sora.site
+
+### [Backup] Vercel
+
+Hosted by AWS
+
+Powered by Vercel
+
+- https://vercel.cdn.neko7sora.site
+
+### [Backup] Github
+
+Hosted by Fastly
+
+Powered by GitHub Pages
+
 ！文字化けする可能性あり --> エンコードすれば正常に使えます。
- * https://gh.cdn.neko7sora.jp
- * ( https://neko7sora.github.io/cdn ) (リダイレクト 301code)
+
+- https://github.cdn.neko7sora.site
+
+## ファイル構造
+
+```sh
+.
+├── css
+|   ├── **.css
+|   └── (etc..)
+├── js
+|   ├── **.js
+|   └── (etc..)
+├── img
+|   ├── app
+|   |   ├── android
+|   |   ├── ios
+|   |   ├── windows11
+|   |   ├── icon.json
+|   |   └── (etc..)
+|   └── (画像)
+├── mp
+|   └── (動画)
+├── sys
+|   └── (ファイル配布など)
+└── README.md
+```
