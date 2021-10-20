@@ -8,6 +8,8 @@
 
 - https://cdn.neko7sora.site
 
+- https://www.jsdelivr.com/package/gh/Neko7sora/Content-Delivery-Network
+
 ### Cloudflare
 
 Hosted by Cloudflare
@@ -58,3 +60,35 @@ Powered by GitHub Pages
 |   └── (ファイル配布など)
 └── README.md
 ```
+
+---
+
+# ajax/lib
+ファイル作成及び配置の予定はありません。
+
+## 代理案
+パブリックCDNリスト
+
+### jsDelivr
+
+https://www.jsdelivr.com/
+
+### Google Hosted Libraries
+
+https://developers.google.com/speed/libraries/
+
+### Microsoft Ajax Content Delivery Network
+
+https://docs.microsoft.com/ja-jp/aspnet/ajax/cdn/overview
+
+### cdnjs.com
+
+https://cdnjs.com/
+
+### UNPKG
+
+https://unpkg.com/
+
+### Skypack
+
+https://www.skypack.dev/
