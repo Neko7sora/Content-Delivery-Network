@@ -46,6 +46,7 @@
 
 https://www.jsdelivr.com/
 
+<!--
 ### Google Hosted Libraries
 
 https://developers.google.com/speed/libraries/
@@ -57,6 +58,7 @@ https://docs.microsoft.com/ja-jp/aspnet/ajax/cdn/overview
 ### cdnjs.com
 
 https://cdnjs.com/
+-->
 
 ### UNPKG
 
