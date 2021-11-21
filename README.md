@@ -3,38 +3,14 @@
 ここにファイルをアップロードするだけで、自動的に複数のサービスにデプロイされます。（ファイルが多いほどデプロイ完了までに時間がかかる場合があります。）
 
 ## リンク
-
-！サービスが動かなくなったときに手動で切り替えます。
-
-- https://cdn.neko7sora.site
-
-- https://www.jsdelivr.com/package/gh/Neko7sora/Content-Delivery-Network
-
 ### Cloudflare
 
-Hosted by Cloudflare
-
-Powered by Cloudflare Pages
-
+- https://cdn.neko7sora.site
 - https://cloudflare.cdn.neko7sora.site
 
-### [Backup] Vercel
+### jsDelivr
 
-Hosted by AWS
-
-Powered by Vercel
-
-- https://vercel.cdn.neko7sora.site
-
-### [Backup] Github
-
-Hosted by Fastly
-
-Powered by GitHub Pages
-
-！文字化けする可能性あり --> エンコードすれば正常に使えます。
-
-- https://github.cdn.neko7sora.site
+- https://cdn.jsdelivr.net/gh/Neko7sora/Content-Delivery-Network/
 
 ## ファイル構造
 
@@ -62,9 +38,6 @@ Powered by GitHub Pages
 ```
 
 ---
-
-# ajax/lib
-ファイル作成及び配置の予定はありません。
 
 ## 代理案
 パブリックCDNリスト
